@@ -10,9 +10,9 @@
 # Awesome-Omics
 A curated list of awesome resources for omics data analysis
 
-##Databases
+## Databases
 
-###Gene Databases
+### Gene Databases
 * [GeneCards](https://www.genecards.org/) - A database that integrates information on all annotated and predicted human genes
 * [miRBase](http://www.mirbase.org/) - The central repository for microRNA (miRNA) information
 
@@ -30,8 +30,8 @@ A curated list of awesome resources for omics data analysis
 
 
 ### Pathway Databases
-* [KEGG](https://www.genome.jp/kegg) - 
-* [REACTOME](https://reactome.org) - 
+* [KEGG](https://www.genome.jp/kegg) - Kyoto Encyclopedia of Genes and Genomes
+* [REACTOME](https://reactome.org) - a free, open-source, curated and peer-reviewed pathway database
 
 ### Databases for drug discovery
 * [Pharos](https://pharos.nih.gov) - An integrated database for three classes of drug targets: kinases, GPCRs and ion channel proteins
@@ -41,16 +41,16 @@ A curated list of awesome resources for omics data analysis
 * [DisGeNet](https://disgenet.org) - A database of gene-disease associations collected from database integration and literature curation
 * [cBioPortal](https://www.cbioportal.org/) - A resource for interactive exploration of multi-omics cancer data sets
 
-###Others
+### Others
 * [Database Commons](https://ngdc.cncb.ac.cn/databasecommons/) - A manually curated catalogue of publicly available biological databases
 
-##Online Data Analysis Tools
+## Online Data Analysis Tools
 
-###PPI
+### PPI
 * [STRING](https://string-db.org/) - A website provides customizable protein-protein networks, and functional characterization of user-uploaded gene/measurement sets
 
-###Functional Enrichment Analysis
+### Functional Enrichment Analysis
 * [WebSestalt](http://www.webgestalt.org/) - An online toolkit of various gene set enrichment analysis tools
 
-###Phylogenetic tree
+### Phylogenetic tree
 * [iTOL](https://itol.embl.de) - A tool to make beautiful and customized phylogenetic trees

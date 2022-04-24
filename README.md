@@ -54,6 +54,3 @@ A curated list of awesome resources for omics data analysis
 
 ###Phylogenetic tree
 * [iTOL](https://itol.embl.de) - A tool to make beautiful and customized phylogenetic trees
-
-
->>>>>>> 7164b12 (first commit)

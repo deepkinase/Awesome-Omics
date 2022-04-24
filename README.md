@@ -31,7 +31,7 @@ A curated list of awesome resources for omics data analysis
 
 ### Pathway Databases
 * [KEGG](https://www.genome.jp/kegg) - Kyoto Encyclopedia of Genes and Genomes
-* [REACTOME](https://reactome.org) - a free, open-source, curated and peer-reviewed pathway database
+* [REACTOME](https://reactome.org) - A free, open-source, curated and peer-reviewed pathway database
 
 ### Databases for drug discovery
 * [Pharos](https://pharos.nih.gov) - An integrated database for three classes of drug targets: kinases, GPCRs and ion channel proteins
